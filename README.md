@@ -1,4 +1,4 @@
-# MythWare Tool
+# MythWare Tool v5.0.0
 
 用于 Windows 进程管理与极域电子教室辅助的小工具，个人学习练手项目。
 
