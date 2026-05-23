@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>jiyu_icon.png</file>
+        <file>quit.png</file>
+        <file>question.png</file>
+        <file>error.png</file>
+        <file>setting.png</file>
+    </qresource>
+</RCC>
