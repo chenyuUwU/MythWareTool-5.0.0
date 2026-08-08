@@ -76,9 +76,18 @@
 
 
 
+# MythWare Tool v5.0.2
+
+- 完全移除对第三方pssuspend工具的依赖，程序中的挂起进程、恢复进程、结束进程的功能全部使用原生Win32 API
+
+- 新增mwtcmd命令行工具，可供其他程序调用 [https://github.com/chenyuUwU/MythWareTool-command](https://github.com/chenyuUwU/MythWareTool-command)
+
+- 优化了部分代码
+
+
+
 ## 重要声明
 
 本项目仅为 C++/Qt 学习练手项目，源码仅用于教学实验、技术交流。
 
 请勿用于未经许可的控制、破解、干扰行为，一切法律责任由使用者自行承担。
-
