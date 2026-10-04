@@ -86,6 +86,15 @@
 
 - 优化了部分代码
 
+<br>
+<br>
+<br>
+
+# MythWare Tool v5.1.0
+
+- 将项目底层通用代码抽离，迁移至 Win Helper Lib 库
+
+- 新增DLL注入方式，实现对MythWare Tool自身进程保护
 
 
 ## 重要声明
