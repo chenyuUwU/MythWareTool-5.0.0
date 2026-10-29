@@ -105,7 +105,7 @@
 - 修复了极域 2016 屏幕广播窗口无法最小化的问题
 
 
-## Acknowledgements
+## 感谢
 - 本项目解锁功能的实现思路参考了 [https://github.com/imengyu/JiYuTrainer](https://github.com/imengyu/JiYuTrainer)
 
 <br>
